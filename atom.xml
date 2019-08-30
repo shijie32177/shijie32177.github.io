@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://shijie32177.github.io/"/>
   <updated>2019-08-30T08:23:43.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://shijie32177.github.io/</id>
   
   <author>
     <name>杰</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>搭建SSR</title>
-    <link href="http://yoursite.com/2019/08/30/%E6%90%AD%E5%BB%BASSR/"/>
-    <id>http://yoursite.com/2019/08/30/搭建SSR/</id>
+    <link href="https://shijie32177.github.io/2019/08/30/%E6%90%AD%E5%BB%BASSR/"/>
+    <id>https://shijie32177.github.io/2019/08/30/搭建SSR/</id>
     <published>2019-08-30T08:10:01.000Z</published>
     <updated>2019-08-30T08:23:43.000Z</updated>
     
@@ -35,14 +35,14 @@
     
     </summary>
     
-      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
+      <category term="Linux" scheme="https://shijie32177.github.io/categories/Linux/"/>
     
-      <category term="SSR" scheme="http://yoursite.com/categories/Linux/SSR/"/>
+      <category term="SSR" scheme="https://shijie32177.github.io/categories/Linux/SSR/"/>
     
     
-      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+      <category term="Linux" scheme="https://shijie32177.github.io/tags/Linux/"/>
     
-      <category term="SSR" scheme="http://yoursite.com/tags/SSR/"/>
+      <category term="SSR" scheme="https://shijie32177.github.io/tags/SSR/"/>
     
   </entry>
   
