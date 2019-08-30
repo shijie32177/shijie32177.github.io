@@ -37,6 +37,8 @@
     
       <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
     
+      <category term="ssr" scheme="http://yoursite.com/categories/linux/ssr/"/>
+    
     
       <category term="ssr" scheme="http://yoursite.com/tags/ssr/"/>
     
