@@ -17,7 +17,7 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>搭建Ssr</title>
+    <title>搭建SSR</title>
     <link href="http://yoursite.com/2019/08/30/%E6%90%AD%E5%BB%BASSR/"/>
     <id>http://yoursite.com/2019/08/30/搭建SSR/</id>
     <published>2019-08-30T08:10:01.000Z</published>
@@ -42,7 +42,7 @@
     
       <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
     
-      <category term="Ssr" scheme="http://yoursite.com/tags/Ssr/"/>
+      <category term="SSR" scheme="http://yoursite.com/tags/SSR/"/>
     
   </entry>
   
