@@ -35,12 +35,14 @@
     
     </summary>
     
-      <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
     
-      <category term="ssr" scheme="http://yoursite.com/categories/linux/ssr/"/>
+      <category term="Ssr" scheme="http://yoursite.com/categories/Linux/Ssr/"/>
     
     
-      <category term="ssr" scheme="http://yoursite.com/tags/ssr/"/>
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+      <category term="Ssr" scheme="http://yoursite.com/tags/Ssr/"/>
     
   </entry>
   
